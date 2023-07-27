@@ -245,3 +245,7 @@
   new PureCounter();
 
 })()
+  /**
+   * Hiding navbar when scrolling
+   */
+
